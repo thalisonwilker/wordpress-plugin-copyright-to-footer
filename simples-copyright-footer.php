@@ -3,9 +3,9 @@
 /*
 Plugin Name: Simples Copyright
 Author: Thalison Wilker
-Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Plugin URI: https://github.com/thalisonwilker/wordpress-plugin-copyright-to-footer
 Description: Este plugin adiciona uma marcação de 'CORPIRIGHT &copy; SITE NAME' ao final do seu site
-Version: 1.7
+Version: 1..0
 Author URI: https://instagram.com/sigaobarra
 */
 
